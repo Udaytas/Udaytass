@@ -1,4 +1,3 @@
-[![Masterhead][https://www.google.com/url?sa=i&url=https%3A%2F%2Fioturkiye.com%2F2020%2F12%2Fdunyanin-en-kucuk-atom-hafiza-birimi-olusturuldu%2F&psig=AOvVaw3rcgq2foPJW_aG-qW-znHO&ust=1697278763264000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCMlaDm8oEDFQAAAAAdAAAAABAE](https://images.pexels.com/photos/5380642/pexels-photo-5380642.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 <h1 align="center">Hi 👋, I'm Uday Taş</h1>
 <h3 align="center">A passionate frontend developer, WEB3 developer From Türkiye</h3>
 
